@@ -37,4 +37,4 @@ The **Crop Recommendation System** is a web-based application that helps farmers
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Developed with love by [Your Name](https://github.com/yourusername)
+Developed with love by [SATHYA](https://github.com/yourusername)
