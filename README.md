@@ -1,4 +1,4 @@
-# Crop Recommendation System
+# Crop Recommendation System | [Demo](https://sathya-1006.github.io/Crop-recommendation/)
 
 ## Overview
 The **Crop Recommendation System** is a web-based application that helps farmers and users determine suitable crops for cultivation based on their location, water type, soil type.
