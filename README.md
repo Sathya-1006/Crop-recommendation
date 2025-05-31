@@ -1,4 +1,4 @@
-# Crop Recommendation System
+# Crop Recommendation System | [DEMO](https://youtu.be/u4iMrUTJWcA)
 
 An intelligent web application that recommends the most suitable crop to cultivate based on specific soil and environmental parameters. This tool aims to assist farmers and agricultural enthusiasts in making informed decisions to optimize yield and ensure sustainable farming practices.
 
